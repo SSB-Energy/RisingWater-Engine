@@ -1,0 +1,1 @@
+{"keyboardControls":{"up":["W","UP"],"down":["S","DOWN"],"left":["A","LEFT"],"right":["D","RIGHT"],"jump":["SPACE"]},"gamepadControls":{"up":["LSTICK_UP","DPAD_UP"],"down":["LSTICK_DOWN","DPAD_DOWN"],"left":["LSTICK_LEFT","DPAD_LEFT"],"right":["LSTICK_RIGHT","DPAD_RIGHT"],"jump":["PS_X"]},"deadzone":0.15}
